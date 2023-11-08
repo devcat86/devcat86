@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devcat86
-- 👀 I’m Python developer!
-- 👻 I am the owner of m1cro_cloud hosting  
+- 👋 Hi, I’m @m1cro-cat
+- 👀 I’m Python and HTML developer!
+- :( I am bad developer :'(  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=m1cro-cat)](https://github.com/anuraghazra/github-readme-stats&bg_color=black,violet)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1cro-cat&layout=compact)
