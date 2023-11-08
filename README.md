@@ -6,4 +6,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1cro-cat&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/07ff4dc7-e36d-4b1b-8438-082dea065b14.svg)](https://wakatime.com/@07ff4dc7-e36d-4b1b-8438-082dea065b14)
-![](https://komarev.com/ghpvc/?username=m1cro-cat&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=m1cro-cat&style=flat)
